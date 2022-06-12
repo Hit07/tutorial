@@ -6,5 +6,4 @@ Online book store is database system to link between the users and the website a
 
 Project report:
 
-
 (https://github.com/Hit07/tutorial/files/8885420/dbms_mini.Project._Hitesh.1.pdf)
